@@ -1,8 +1,10 @@
-# swiggy_clone
+# Swiggy Home Page Clone using Flutter
 
-A new Flutter project.
+## Preview
 
-## Getting Started
+
+![wall](https://user-images.githubusercontent.com/12216430/230583215-647d2496-07dd-4098-9c5e-ad2fed2e742d.png)
+
 
 This project is a starting point for a Flutter application.
 
